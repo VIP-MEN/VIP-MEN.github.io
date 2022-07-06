@@ -1,2 +1,2 @@
-# VIP-MEN.github.io
+# Mental Map
 mental map
